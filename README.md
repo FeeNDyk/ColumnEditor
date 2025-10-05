@@ -2,6 +2,9 @@
 
 A console application for swapping note columns in osu!mania beatmaps.
 
+## Download
+[Google Drive](https://drive.google.com/file/d/1uk_YTFIG23fZPjo825vV0J6DUGtNVW2S/view?usp=sharing)
+
 ## Features
 
 - Supports 2K to 9K mania
