@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.exe
+*.dll
+*.pfx
+Application Files/
+packages/
