@@ -3,7 +3,9 @@
 A console application for swapping note columns in osu!mania beatmaps.
 
 ## Download
-[Google Drive](https://drive.google.com/file/d/1uk_YTFIG23fZPjo825vV0J6DUGtNVW2S/view?usp=sharing)
+[![Download v1.0](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/username/ColumnEditor/releases/latest)
+
+Get the latest version: [v1.0 Release](https://github.com/username/ColumnEditor/releases/tag/v1.0)
 
 ## Features
 
