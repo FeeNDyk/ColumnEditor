@@ -48,12 +48,6 @@ Result: Column 1→2, 2→1, 3→4, 4→3
 - Windows OS
 - .NET Framework (included in standalone version)
 
-## Building from Source
-
-1. Open project in Visual Studio 2022
-2. Build → Publish
-3. Select "Self-Contained" and "Single File" options
-
 ## Notes
 
 - Works with any .osu file that has proper CircleSize setting
