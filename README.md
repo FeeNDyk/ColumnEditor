@@ -4,6 +4,11 @@ Console application for swapping note columns in osu!mania beatmaps.
 
 > This project was generated with AI
 
+## Download
+
+### Latest Release
+[![Download v1.1](https://img.shields.io/badge/Download-v1.1-blue)](https://github.com/FeeNDyk/ColumnEditor/releases/latest)
+
 ## Features
 
 - Supports 3K to 9K mania modes
